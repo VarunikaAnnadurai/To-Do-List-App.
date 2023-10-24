@@ -28,7 +28,7 @@
 <li>Follow the on-screen menu to interact with the to-do list manager.</li>
 </p>
 
-<h2></h2>Example Usage:</h2>
+<h2>Example Usage:</h2>
 <p>
 <li>Add a new task: Enter "1", provide a task name, and the task is added.</li>
 <li>Edit a task: Enter "2", select a task by number, provide a new task name, and the task is updated.</li>
@@ -37,3 +37,6 @@
 <li>Exit the program: Enter "5" to exit the program.</li>
 </p>
 </body>
+![ToDoList1](https://github.com/VarunikaAnnadurai/Tic-Tac-Toe/assets/147306753/96858bee-4ebc-461b-be93-0475ad68c387)
+![ToDoList2](https://github.com/VarunikaAnnadurai/Tic-Tac-Toe/assets/147306753/04bbde1c-ad8d-479e-bdbf-2cf9f508cb9f)
+![ToDoList3](https://github.com/VarunikaAnnadurai/Tic-Tac-Toe/assets/147306753/3f1adad2-efba-4695-82fa-ba99c829e669)
